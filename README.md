@@ -115,3 +115,9 @@ The current pre-commit hooks do the following:
 - format and lint C++ code with `clang-format`;
 - format and lint Python code with `ruff`;
 - strip outputs from Jupyter notebooks.
+
+# Python Implementation
+
+The complete Python implementation for the HFT market-making backtester is available here:
+
+https://github.com/a12xsktl/hft-backtester
